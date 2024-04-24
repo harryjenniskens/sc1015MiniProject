@@ -4,7 +4,7 @@
 
 This is the repository for FCS1 Team 1's mini project. Our project focused on image recognition and classification, specifically diagnosis of chest diseases given an x-ray
 
-### 🗂🗃️ Repo Organisation
+### 🗂 Repo Organisation
 - Archived Codes: Collection of jupyter notebooks
 - Original Dataset: The files extracted from Kaggle. Includes:
   - Sample chest x-rays
