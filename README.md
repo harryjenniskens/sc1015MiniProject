@@ -65,8 +65,8 @@ The current average Chest X-Ray Diagnosis Accuracy of a radiologist is 94%. How 
 - What parameters and parts of the CNN to tweak according to the model's various metrics
 - What the metrics for measuring the performance of a neural network mean. (Accuracy, loss) And why they differ accross all 3 datasets
 - Differences between un-trained and pre-trained CNNs (tensorflow/keras, ResNet-50, VGG) and how to use them
-- The importance of understanding our dataset and how to better identify certain challenges it may present.
-- We need a better CPUs :(
+- The importance of understanding our dataset and how to better identify certain challenges it may present. (class imbalance, image resolution)
+- We need better CPUs :(
 
 
 
