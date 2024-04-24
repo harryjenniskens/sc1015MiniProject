@@ -28,7 +28,7 @@ NIH Chest X-rays from [Kaggle](https://www.kaggle.com/datasets/nih-chest-xrays/d
 The current average Chest X-Ray Diagnosis Accuracy of a radiologist is 94%. How can we use machine learning to aid doctors and enhance that accuracy?
 
 ### 📊 Models used
-| Machine Learning Model                  | Accuracy |
+| Machine Learning Model                  | Accuracy On Test Set |
 |-----------------------------------------|----------|
 | 3 Layer Convolutional Neural Network    | 54%      |
 | 4 Layer CNN                             | 53%      |
