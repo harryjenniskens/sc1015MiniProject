@@ -59,7 +59,10 @@ The current average Chest X-Ray Diagnosis Accuracy of a radiologist is 94%. How 
 - We also chose not to incorporate the patient's report and medical history into our prediction model. This and the bounding boxes could have potentially led to drastically more accurate results for our model, and is something we will look into incorporating for future projects.
 
 ### 🌟 What We Learned
-- How Convolutional Neural Networks work, and the parameters that change how they perform
+- How Convolutional Neural Networks work, what their parameters mean, and their parts, such as
+  - activation models like softmax, sigmoid
+  - differnt loss functions and their purposes
+- What parameters and parts of the CNN to tweak according to the model's various metrics
 - What the metrics for measuring the performance of a neural network mean. (Accuracy, loss) And why they differ accross all 3 datasets
 - Differences between un-trained and pre-trained CNNs (tensorflow/keras, ResNet-50, VGG) and how to use them
 - The importance of understanding our dataset and how to better identify certain challenges it may present.
