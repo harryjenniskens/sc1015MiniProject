@@ -9,6 +9,9 @@ This is the repository for FCS1 Team 1's mini project. Our project focused on im
 - @harryjenniskens: Data cleaning and analysis
 - @jonkoong: Machine learning techniques
 
+![image](https://github.com/harryjenniskens/sc1015MiniProject/assets/167991732/38700b3b-26f2-4d96-9f66-eb36773afa15)
+
+
 ### Problem definition
 The current average Chest X-Ray Diagnosis Accuracy of a radiologist is 94%. How can we use machine learning to aid doctors and enhance that accuracy?
 
