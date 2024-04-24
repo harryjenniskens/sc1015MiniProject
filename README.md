@@ -10,11 +10,11 @@ This is the repository for FCS1 Team 1's mini project. Our project focused on im
 The current average Chest X-Ray Diagnosis Accuracy of a radiologist is 94%. How can we use machine learning to aid doctors and enhance that accuracy?
 
 ### Models used
-3 Layer Convolutional Neural Network (CNN)
-4 Layer CNN
-ResNet-50
-ResNet-50 with weights
-ResNet-50 single classification
+- 3 Layer Convolutional Neural Network (CNN)
+- 4 Layer CNN
+- ResNet-50
+- ResNet-50 with weights
+- ResNet-50 single classification
 
 ### Conclusion & what we learned from this project
 - We learned the importance of understanding our dataset and how to better identify certain challenges it may present.
