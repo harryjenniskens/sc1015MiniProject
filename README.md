@@ -4,6 +4,8 @@
 
 This is the repository for FCS1 Team 1's mini project. Our project focused on image recognition and classification, specifically diagnosis of chest diseases given an x-ray
 
+![image](https://github.com/harryjenniskens/sc1015MiniProject/assets/167991732/6ef9965a-8931-4ef8-86a9-cef6ab407fa5)
+
 ### 🗂 Repo Organisation
 - Archived Codes: Collection of jupyter notebooks
 - Original Dataset: The files extracted from Kaggle. Includes:
@@ -19,7 +21,7 @@ This is the repository for FCS1 Team 1's mini project. Our project focused on im
 - @harryjenniskens: Data cleaning and analysis
 - @jonkoong: Machine learning techniques
 
-![image](https://github.com/harryjenniskens/sc1015MiniProject/assets/167991732/6ef9965a-8931-4ef8-86a9-cef6ab407fa5)
+---
 
 ### 📚 Dataset
 NIH Chest X-rays from [Kaggle](https://www.kaggle.com/datasets/nih-chest-xrays/data) 
