@@ -38,7 +38,7 @@ The current average Chest X-Ray Diagnosis Accuracy of a radiologist is 94%. How 
 | 3 Layer CNN (Single Classification)     | 65%      |
 
 
-### 📈 Conclusion & what we learned from this project
+### 💎 Conclusion & what we learned from this project
 - We learned the importance of understanding our dataset and how to better identify certain challenges it may present.
 - We used a pre-trained model that took 224x224 sized images, while our images were 512x512, meaning we lost nearly 81% of the available visual information when using the ResNet-50. Next time we should find and use a model that could cater to our image size.
 - Our dataset also came with about a thousand images that contained bounding boxes on visual indicators of diseases, but we did not implement this in our models due to complexity.
@@ -54,7 +54,8 @@ The current average Chest X-Ray Diagnosis Accuracy of a radiologist is 94%. How 
       - We discovered that we had significant class imbalances across our dataset, which could introduce bias into our model and reduce its accuracy.
     4. We attempted to solve this issue with class specific weights, and retrained our ResNet-50 model, along with some other tweaks. This yieled an accuracy of 57.66%.
     5. Finally, to experiment, we only used single label x-rays which increased our accuracy to 65%. This was expected as the task is much easier.
- 
+
+### 📈 Model Metrics
   ![image](https://github.com/harryjenniskens/sc1015MiniProject/assets/167991732/17988147-e5ff-49f7-b172-017063946aba) ![image](https://github.com/harryjenniskens/sc1015MiniProject/assets/167991732/36c5f647-9a7d-44e4-aaf9-19c60f97b68a)
 
 
