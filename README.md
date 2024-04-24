@@ -5,8 +5,9 @@
 This is the repository for FCS1 Team 1's mini project. Our project focused on image recognition and classification, specifically diagnosis of chest diseases given an x-ray
 
 ### Contributers
-- @corneliusacf
-- @harryjenniskens
+- @corneliusacf: Insights and recommendations
+- @harryjenniskens: Data cleaning and analysis
+- @jonkoong: Machine learning techniques
 
 ### Problem definition
 The current average Chest X-Ray Diagnosis Accuracy of a radiologist is 94%. How can we use machine learning to aid doctors and enhance that accuracy?
