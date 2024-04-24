@@ -53,7 +53,11 @@ The current average Chest X-Ray Diagnosis Accuracy of a radiologist is 94%. How 
     3. We then decided to switch gears and use the ResNet-50, which is a pre-trained model with 48 convolutional layers. However, our accuracy was still at around 53%. Since we were experiencing similar accuracies with different models, we took another look at our dataset.
       - We discovered that we had significant class imbalances across our dataset, which could introduce bias into our model and reduce its accuracy.
     4. We attempted to solve this issue with class specific weights, and retrained our ResNet-50 model, along with some other tweaks. This yieled an accuracy of 57.66%.
-    5. Finally, to experiment, we only used single label x-rays which increased our accuracy to 65%. This was expected as the task is much easier. 
+    5. Finally, to experiment, we only used single label x-rays which increased our accuracy to 65%. This was expected as the task is much easier.
+ 
+  ![image](https://github.com/harryjenniskens/sc1015MiniProject/assets/167991732/17988147-e5ff-49f7-b172-017063946aba) ![image](https://github.com/harryjenniskens/sc1015MiniProject/assets/167991732/36c5f647-9a7d-44e4-aaf9-19c60f97b68a)
+
+
 
 ### 🗄️ References
 - https://nihcc.app.box.com/v/ChestXray-NIHCC/folder/36938765345
