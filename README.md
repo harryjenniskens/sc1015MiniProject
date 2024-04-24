@@ -46,3 +46,9 @@ We then decided to switch gears and use the ResNet-50, which is a pre-trained mo
 
 Finally, to experiment, we only used single label x-rays which increased our accuracy to 65%. This was expected as the task is much easier. 
 
+### References
+- https://nihcc.app.box.com/v/ChestXray-NIHCC/folder/36938765345
+- https://realpython.com/python-ai-neural-network/
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9759648/
+- https://api.isic-archive.com/collections/?pinned=true
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8382232/ 
