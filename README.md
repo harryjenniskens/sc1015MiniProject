@@ -4,6 +4,10 @@
 
 This is the repository for FCS1 Team 1's mini project. Our project focused on image recognition and classification, specifically diagnosis of chest diseases given an x-ray
 
+### Repo Organisation
+- Archived Codes: Collection of jupyter notebooks
+
+
 ### Contributers
 - @corneliusacf: Insights and recommendations
 - @harryjenniskens: Data cleaning and analysis
