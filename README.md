@@ -6,6 +6,12 @@ This is the repository for FCS1 Team 1's mini project. Our project focused on im
 
 ### Repo Organisation
 - Archived Codes: Collection of jupyter notebooks
+- Original Dataset: The files extracted from Kaggle. Includes:
+  - Sample chest x-rays
+  - .csv files
+- FCS1_team1_KoongAngJenniskens.ipynb: Our final jupyter notebook, containing all code and models used in our project
+- Results.csv: each CNN model's metrics over epochs
+- Accuracy.csv: each CNN model's accuracy metrics
 
 
 ### Contributers
