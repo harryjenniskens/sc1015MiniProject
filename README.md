@@ -86,4 +86,4 @@ The current average Chest X-Ray Diagnosis Accuracy of a radiologist is 94%. How 
 - https://www.mdpi.com/2072-6694/15/13/3267
 - https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-022-00793-7
 
-### Thank you for reading! 🤍
+### Thank you for reading! 🙏
