@@ -1,6 +1,6 @@
 # Welcome to FCS1 Team 1's Chest X-Ray Repository
 
-### About
+### 📃 About
 
 This is the repository for FCS1 Team 1's mini project. Our project focused on image recognition and classification, specifically diagnosis of chest diseases given an x-ray
 
