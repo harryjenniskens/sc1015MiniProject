@@ -22,7 +22,7 @@ The current average Chest X-Ray Diagnosis Accuracy of a radiologist is 94%. How 
 - 4 Layer CNN
 - ResNet-50
 - ResNet-50 with weights
-- ResNet-50 single classification
+- 3 Layer CNN (Single Classification)
 
 ### Conclusion & what we learned from this project
 - We learned the importance of understanding our dataset and how to better identify certain challenges it may present.
