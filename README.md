@@ -11,6 +11,9 @@ This is the repository for FCS1 Team 1's mini project. Our project focused on im
 
 ![image](https://github.com/harryjenniskens/sc1015MiniProject/assets/167991732/6ef9965a-8931-4ef8-86a9-cef6ab407fa5)
 
+### Dataset
+NIH Chest X-rays from [Kaggle](https://www.kaggle.com/datasets/nih-chest-xrays/data) 
+
 ### Problem definition
 The current average Chest X-Ray Diagnosis Accuracy of a radiologist is 94%. How can we use machine learning to aid doctors and enhance that accuracy?
 
